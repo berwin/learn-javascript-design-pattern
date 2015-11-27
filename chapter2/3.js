@@ -32,3 +32,5 @@ console.log('a instanceof SubClass =', a instanceof SubClass); // true
 console.log('a instanceof SuperClass =', a instanceof SuperClass); // true
 console.log('SubClass instanceof SuperClass =', SubClass instanceof SuperClass); // false
 console.log('SubClass.prototype instanceof SuperClass =', SubClass.prototype instanceof SuperClass); // true
+
+// 有缺陷，用new SubClass()创建两个实例时 a, b，这两个实例的属性是同一个，a修改属性superValue，b的superValue会被a修改
