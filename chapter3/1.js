@@ -60,7 +60,3 @@ var SportsFactory = function(name) {
 // 为NBA杯创建一个篮球，只需要记住运动工厂 SportsFactory，调用并创建
 var NBA = SportsFactory('NBA');
 console.log(NBA);
-
-
-
-
