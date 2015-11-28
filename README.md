@@ -2,8 +2,9 @@
 学习javascript设计模式，记录的小例子~
 
 
-* [第一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter1)
-* [第二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter2)
+* [第一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter1) 灵活的语言————javascript
+* [第二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter2) 面对对象编程
+* [第三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter3) 简单工厂模式
 
 # The MIT License (MIT)
 
