@@ -6,6 +6,7 @@
 * [第二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter2) 面对对象编程
 * [第三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter3) 简单工厂模式
 * [第四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter4) 工厂方法模式
+* [第五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter5) 抽象工厂模式
 
 # The MIT License (MIT)
 
