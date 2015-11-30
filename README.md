@@ -8,6 +8,7 @@
 * [第四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter4) 工厂方法模式
 * [第五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter5) 抽象工厂模式
 * [第六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter6) 建造者模式
+* [第七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter7) 原型模式
 
 # The MIT License (MIT)
 
