@@ -18,6 +18,7 @@
 ### 第三篇 - 结构型设计模式
 
 * [第九章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter9) 外观模式
+* [第十章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter10) 适配器模式
 
 # The MIT License (MIT)
 
