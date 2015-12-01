@@ -15,6 +15,10 @@
 * [第七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter7) 原型模式
 * [第八章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter8) 单例模式
 
+### 第三篇 - 结构型设计模式
+
+* [第九章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter9) 外观模式
+
 # The MIT License (MIT)
 
 Copyright (c) 2015 Berwin
