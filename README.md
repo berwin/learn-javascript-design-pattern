@@ -1,12 +1,12 @@
 # learn-javascript-design-pattern
 学习javascript设计模式，记录的小例子~
 
-## 第一篇
+### 第一篇
 
 * [第一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter1) 灵活的语言————javascript
 * [第二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter2) 面对对象编程
 
-## 第二篇
+### 第二篇
 
 * [第三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter3) 简单工厂模式
 * [第四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter4) 工厂方法模式
