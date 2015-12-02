@@ -19,6 +19,8 @@
 
 * [第九章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter9) 外观模式
 * [第十章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter10) 适配器模式
+* 第十一章 代理模式
+* [第二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter12) 装饰者模式
 
 # The MIT License (MIT)
 
