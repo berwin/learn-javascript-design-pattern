@@ -22,6 +22,7 @@
 * 第十一章 代理模式
 * [第十二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter12) 装饰者模式
 * [第十三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter13) 桥接模式
+* [第十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter14) 组合模式
 
 # The MIT License (MIT)
 
