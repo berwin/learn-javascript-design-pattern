@@ -7,7 +7,10 @@ var Flyweight = (function() {
   // 已创建的元素
   var created = [];
 
-  // 创建一个新闻包装容器
+  /*
+   * 创建一个新闻包装容器
+   * 根据我自己对享元模式的理解，享元模式的精髓就在于『创建对象的同时，缓存一份对象，日后直接对缓存的对象做操作』
+   */
   function create() {
     var dom = document.createElement('div');
     // 讲容器插入新闻列表容器中
