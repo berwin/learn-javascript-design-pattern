@@ -25,6 +25,10 @@
 * [第十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter14) 组合模式
 * [第十五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter15) 享元模式
 
+### 第四篇 - 行为型设计模式
+
+* [第十六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter16) 模板方法模式
+
 # The MIT License (MIT)
 
 Copyright (c) 2015 Berwin
