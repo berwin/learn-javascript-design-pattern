@@ -29,6 +29,7 @@
 
 * [第十六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter16) 模板方法模式
 * [第十七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter17) 观察者模式
+* [第十八章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter18) 状态模式
 
 # The MIT License (MIT)
 
