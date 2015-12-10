@@ -33,6 +33,7 @@
 * [第十九章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter19) 策略模式
 * [第二十章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter20) 责任链模式
 * [第二十一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter21) 命令模式
+* [第二十二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter22) 访问者模式
 
 # The MIT License (MIT)
 
