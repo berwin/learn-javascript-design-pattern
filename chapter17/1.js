@@ -12,7 +12,7 @@ var Observer = (function() {
   var __message = {};
 
   return {
-    // 注册信息接口（订阅）
+    // 订阅
     subscribe: function(type, fn) {
       // 如果消息不存在则创建一个消息类型
       if (!__message[type]) {
@@ -23,7 +23,7 @@ var Observer = (function() {
       }
     },
 
-    // 发布消息接口（取消订阅）
+    // 取消订阅
     unsubscribe: function(type, fn) {
       if (!__message[type] || Object.prototype.toString.call(__message[type]) !== '[object Array]') return;
 
@@ -32,7 +32,7 @@ var Observer = (function() {
       };
     },
 
-    // 移除信息接口（移除信息接口）
+    // 发布信息
     publish: function(type, args) {
       if (!__message[type]) return;
 
