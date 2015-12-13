@@ -37,6 +37,11 @@
 * [第二十三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter23) 中介者模式
 * [第二十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter24) 备忘录模式
 * [第二十五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter25) 迭代器模式
+* [第二十六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter26) 解释器模式
+
+### 第五篇 - 技巧型设计模式
+
+* [第二十七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter27) 链模式
 
 # The MIT License (MIT)
 
