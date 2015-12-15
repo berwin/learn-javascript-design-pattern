@@ -42,6 +42,7 @@
 ### 第五篇 - 技巧型设计模式
 
 * [第二十七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter27) 链模式
+* [第二十八章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter28) 委托模式
 
 # The MIT License (MIT)
 
