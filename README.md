@@ -44,6 +44,8 @@
 * [第二十七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter27) 链模式
 * [第二十八章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter28) 委托模式
 * [第二十九章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter29) 数据访问对象模式
+* [第三十章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter30) 节流模式
+* [第三十一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter31) 简单模板模式
 
 # The MIT License (MIT)
 
