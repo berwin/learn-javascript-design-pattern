@@ -48,6 +48,7 @@
 * [第三十一章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter31) 简单模板模式
 * [第三十二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter32) 惰性模式
 * [第三十三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter33) 参与者模式
+* [第三十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter34) 等待者模式
 
 # The MIT License (MIT)
 
