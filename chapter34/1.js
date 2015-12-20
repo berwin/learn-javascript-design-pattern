@@ -23,7 +23,7 @@ var Waiter = function () {
       for (var i = dfd.length - 1; i >= 0; i--) {
         // 如果有任意一个监控对象没有被解决或者解决失败则返回
         if (dfd[i] && !dfd[i].resolved || dfd[i].rejected) return;
-        // 清楚监控对象
+        // 清除监控对象
         dfd.splice(i, 1);
       };
 
