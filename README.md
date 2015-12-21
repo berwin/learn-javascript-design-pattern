@@ -49,6 +49,7 @@
 * [第三十二章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter32) 惰性模式
 * [第三十三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter33) 参与者模式
 * [第三十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter34) 等待者模式
+* [第三十五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter35) 同步模块模式
 
 # The MIT License (MIT)
 
