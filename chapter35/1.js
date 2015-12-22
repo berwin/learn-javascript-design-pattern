@@ -73,6 +73,6 @@ F.module('string.trim', function(trim) {
   console.log( trim(' 测试一下 ') );
 });
 
-F.module('string', function(string) {
+F.module(['string'], function(string) {
   console.log( string.trim(' 测试一下2 ') );
 });
