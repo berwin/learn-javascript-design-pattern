@@ -12,6 +12,7 @@ F.define = function(str, fn) {
     parts = parts.slice(1);
   }
 
+  // 如果是框架内部方法，return
   if (parts[0] === 'define' || parts[0] === 'module') {
     return;
   }
@@ -76,3 +77,12 @@ F.module('string.trim', function(trim) {
 F.module(['string'], function(string) {
   console.log( string.trim(' 测试一下2 ') );
 });
+
+/*
+ * 总结
+ *
+ * define方法就是以第一个参数为key，第二个参数为value在F对象上添加一个方法，当然中间会有一个判断神马的
+ *
+ * module方法就是以第一个参数为key读取F对象上的方法push到数组中，用参数统一传给第二个参数
+ *
+ */
