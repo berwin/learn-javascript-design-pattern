@@ -50,6 +50,7 @@
 * [第三十三章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter33) 参与者模式
 * [第三十四章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter34) 等待者模式
 * [第三十五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter35) 同步模块模式
+* [第三十六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter36) 异步模块模式
 
 # The MIT License (MIT)
 
