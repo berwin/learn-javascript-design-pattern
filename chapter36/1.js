@@ -56,7 +56,7 @@
   F.module = function () {
     var args = Array.prototype.slice.call(arguments);
     var callback = args.pop();
-    var deps = args.length ? (args[args.length - 1] instanceof Array ? args.pop() : [args[args.length - 1]]) : [];
+    var deps = (args.length && args[args.length - 1] instanceof Array) ? args.pop() : [];
     var url = args.length ? args.pop() : null;
     var params = [];
     var depsCount = 0;
