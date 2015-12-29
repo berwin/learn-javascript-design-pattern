@@ -20,7 +20,7 @@ var tplEngine = {
   },
 
   /*
-   *
+   * 处理模板
    */
   dealTpl: function(str) {
     var _left = '{%';
@@ -44,6 +44,10 @@ var tplEngine = {
       // 替换右分隔符
       .replace(new RegExp(_right, 'g'), "template_array.push('");
   },
+
+  /*
+   * 编译模板
+   */
   compileTpl: function(str) {
     var fnBody = [
       "var template_array=[];\n",
