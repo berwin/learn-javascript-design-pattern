@@ -8,7 +8,7 @@ var tplEngine = {
    * @return str 最终结果
    */
   getTpl: function(str) {
-    var ele = document.getElementById(str);
+    var ele = (typeof module === 'object' && module.exports) ? false : document.getElementById(str);
 
     if (ele) {
       var html = /textarea|input/i.test(ele.nodeName) ? ele.value : ele.innerHTML;
