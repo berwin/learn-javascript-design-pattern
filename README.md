@@ -52,6 +52,7 @@
 * [第三十五章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter35) 同步模块模式
 * [第三十六章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter36) 异步模块模式
 * [第三十七章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter37) Widget模式（其实是实现一个模板引擎）
+* [第三十八章](https://github.com/berwin/learn-javascript-design-pattern/tree/master/chapter38) MVC模式
 
 # The MIT License (MIT)
 
